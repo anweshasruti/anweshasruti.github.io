@@ -1,13 +1,13 @@
 ---
-title: First Post
+title: sample
 date: 2026-02-18
 ---
 
-This is my first blog post.
+Sample post.
 
-Inline math: $e^{i\pi} + 1 = 0$.
+Inline math test: $e^{i\pi} + 1 = 0$.
 
-Display math:
+Display math test:
 
 $$
 \int_0^1 x^2 \, dx = \frac{1}{3}
