@@ -4,7 +4,7 @@ title: Home
 
 Hello! My name is Anwesha Paul, and I am currently a high school student. I have a lot of pretty varied interests, but some things I love especially are linguistics, mathematics, computer science, geography, and sociology. I think this site is mainly going to focus on linguistics for now, along with my very random rants on topics I think are interesting haha. Maybe I'll share some notes here, or post solutions to psets :)
 
-My email is anwesha [at] tuta [dot] io and my username is anweshasruti on pretty much everything I use. Slightly random, but [here](https://letterboxd.com/anweshasruti/list/filmlist:80704112/) are some films I particularly love.
+My email is `abc@xyz.io` and my username is `abc` on pretty much everything I use. Slightly random, but [here](https://letterboxd.com/anweshasruti/list/filmlist:80704112/) are some films I particularly love.
 
 ---
 
