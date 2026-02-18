@@ -1,0 +1,14 @@
+---
+title: First Post
+date: 2026-02-18
+---
+
+This is my first blog post.
+
+Inline math: $e^{i\pi} + 1 = 0$.
+
+Display math:
+
+$$
+\int_0^1 x^2 \, dx = \frac{1}{3}
+$$
