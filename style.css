@@ -1,5 +1,5 @@
 body {
-  font-family: "Georgia", serif;
+  font-family: "Latin Modern Roman", serif;
   max-width: 750px;
   margin: 60px auto;
   padding: 0 20px;
@@ -7,6 +7,14 @@ body {
   color: #222;
   background-color: #ffffff;
   text-align: justify;
+}
+
+.site-title {
+  font-family: "Latin Modern Roman", serif;
+  font-size: 3.5em;
+  font-weight: 700;
+  font-style: italic;
+  margin-bottom: 15px;
 }
 
 .navbar {
