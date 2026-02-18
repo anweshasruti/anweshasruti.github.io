@@ -4,9 +4,12 @@
   <meta charset="utf-8">
   <title>{{ page.title }} | {{ site.title }}</title>
 
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/dreampulse/computer-modern-web-font@master/fonts.css">
+  <!-- Latin Modern (Computer Modern Web) -->
+  <link href="https://fonts.googleapis.com/css2?family=Latin+Modern+Roman:ital,wght@0,400;1,700&display=swap" rel="stylesheet">
+
   <link rel="stylesheet" href="/style.css">
 
+  <!-- MathJax -->
   <script>
     MathJax = {
       tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] }
@@ -18,7 +21,7 @@
 <body>
 
   <div class="site-title">
-    <a href="/">anweshasruti</a>
+    anweshasruti
   </div>
 
   {% include nav.html %}
