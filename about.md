@@ -13,6 +13,7 @@ The inspiration for creating this site actually came from my parents, and also f
 - [Arjun Agarwal's newsletter](https://arjunagarwal.substack.com/), about literally everything
 
 I also want to mention here [a magazine which I love](https://scream0magazine.blogspot.com/). It is written by students and for students, and its articles are wonderfully thoughtful (and thought-provoking!), brilliantly critical of society, and at the same time beautifully hopeful and aspirational.
+
 ---
 
 A small history of why I started liking the subjects I do:
