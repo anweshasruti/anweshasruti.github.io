@@ -1,0 +1,21 @@
+title: "Anwesha Paul"
+description: "Notes on linguistics, mathematics, and whatever else interests me."
+baseurl: ""
+url: "https://anweshasruti.github.io"
+
+markdown: kramdown
+theme: null
+
+collections:
+  notes:
+    output: true
+    permalink: /notes/:title/
+  psets:
+    output: true
+    permalink: /psets/:title/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
