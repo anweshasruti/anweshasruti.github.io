@@ -14,7 +14,7 @@ I also want to mention here [a magazine which I love](https://scream0magazine.bl
 
 ---
 
-**A small history of why I started liking the subjects I do:**
+## A small history of why I started liking the subjects I do:
 
 I used to find maths very boring when I was younger, until I was exposed to the kind that dealt with the manipulation of more abstract objects rather than brute computation by hand (which I am still atrocious at). I eventually transitioned into learning as much as I could about proof-based mathematics, because I found it an extremely elegant subject that, at least at the school level, was sidelined as an instrument rather than being portrayed as the very spirit of mathematics it is. In that respect I think mathematics is a kind of art; an expression of abstraction in the simplest form possible.
 
