@@ -3,24 +3,22 @@ title: Resources
 permalink: /resources/
 ---
 
-This page collects books, lecture notes, articles, and other materials that I have found useful across linguistics, mathematics, computer science, and related fields.
-
-It will gradually expand as I organize references that I return to often.
+(this page will be added to soon)
 
 ---
 
-## Linguistics
+## sub1
 
-Content coming soon.
-
----
-
-## Mathematics
-
-Content coming soon.
+(this section will be added to soon)
 
 ---
 
-## Computer Science
+## sub2
 
-Content coming soon.
+(this section will be added to soon)
+
+---
+
+## sub3
+
+(this section will be added to soon)
