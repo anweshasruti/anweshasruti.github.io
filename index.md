@@ -6,11 +6,13 @@ Welcome.
 
 ---
 
-## Recent Posts
+## Recent posts
 
-{% for post in site.posts limit:5 %}
-**[{{ post.title }}]({{ post.url }})**  
-<small>{{ post.date | date: "%B %d, %Y" }}</small>
+{% assign all_entries = site.posts | concat: site.notes | concat: site.psets %}
+{% assign sorted_entries = all_entries | sort: "date" | reverse %}
 
-<br>
+{% for entry in sorted_entries limit:5 %}
+- **[{{ entry.title }}]({{ entry.url }})**  
+  <small>{{ entry.date | date: "%B %d, %Y" }}</small>
+
 {% endfor %}
