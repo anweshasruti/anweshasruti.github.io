@@ -90,9 +90,9 @@ a:hover {
 
   .navbar {
     flex-wrap: wrap;
-    gap: 19px;
+    gap: 20px;
     font-size: 1rem;
-    margin-bottom: 25px;
+    margin-bottom: 30px;
   }
 
 }
