@@ -1,7 +1,7 @@
 body {
   font-family: Georgia, "Times New Roman", serif;
   max-width: 780px;
-  margin: 30px auto;
+  margin: 40px auto;
   padding: 0 28px;
   font-size: 1.18rem;
   line-height: 1.95;
@@ -61,4 +61,26 @@ a {
 
 .content {
   font-size: 1em;
+}
+
+/* ===== Mobile Scaling ===== */
+
+@media (max-width: 768px) {
+
+  body {
+    margin: 25px auto;
+    padding: 0 18px;
+    font-size: 1.05rem;
+  }
+
+  .site-title {
+    font-size: 2.6em;
+  }
+
+  .navbar {
+    flex-wrap: wrap;
+    gap: 14px;
+    margin-bottom: 35px;
+  }
+
 }
