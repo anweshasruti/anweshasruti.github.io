@@ -77,20 +77,20 @@ a:hover {
 @media (max-width: 768px) {
 
   body {
-    margin: 12px auto;
+    margin: 8px auto;
     padding: 0 16px;
     font-size: 1.08rem;
   }
 
   .site-title {
-    font-size: 3.1em;
+    font-size: 2.5em;
     margin-top: 0;
-    margin-bottom: 8px;
+    margin-bottom: 6px;
   }
 
   .navbar {
     flex-wrap: wrap;
-    gap: 14px;
+    gap: 17px;
     font-size: 1rem;
     margin-bottom: 25px;
   }
