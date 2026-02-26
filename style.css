@@ -63,6 +63,7 @@ a {
   font-size: 1em;
 }
 
+
 /* ===== Mobile Scaling ===== */
 
 @media (max-width: 768px) {
@@ -73,14 +74,17 @@ a {
     font-size: 1.05rem;
   }
 
+  /* Slightly bigger title on mobile */
   .site-title {
-    font-size: 2.6em;
+    font-size: 3.1em;
   }
 
+  /* Slightly larger navigation on mobile */
   .navbar {
     flex-wrap: wrap;
-    gap: 14px;
+    gap: 18px;
     margin-bottom: 35px;
+    font-size: 1.15rem;
   }
 
 }
