@@ -56,7 +56,6 @@ h1, h2, h3 {
   font-weight: normal;
 }
 
-/* All links everywhere */
 a {
   color: #2a5db0;
   text-decoration: none;
@@ -70,9 +69,6 @@ a:hover {
 .content {
   font-size: 1em;
 }
-
-
-/* ===== Mobile Version ===== */
 
 @media (max-width: 768px) {
 
